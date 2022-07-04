@@ -1,0 +1,10 @@
+groupId=commons-codec
+artifactId=commons-codec
+version=1.15
+
+repoType=git
+repoUrl=https://github.com/apache/commons-codec
+repoTag=rel/${artifactId}-${version}
+
+artifact=target/${artifactId}-${version}.jar
+sourceArtifact=target/${artifactId}-${version}-sources.jar
